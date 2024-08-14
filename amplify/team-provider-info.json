@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-forextracker-dev-004f1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::026090545219:role/amplify-forextracker-dev-004f1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::026090545219:role/amplify-forextracker-dev-004f1-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-forextracker-dev-004f1-deployment",
+      "UnauthRoleName": "amplify-forextracker-dev-004f1-unauthRole",
+      "StackName": "amplify-forextracker-dev-004f1",
+      "StackId": "arn:aws:cloudformation:eu-north-1:026090545219:stack/amplify-forextracker-dev-004f1/5e8cdb40-59ef-11ef-b200-06a40161f783",
+      "AmplifyAppId": "dmsavivkeddai"
+    }
+  }
+}
